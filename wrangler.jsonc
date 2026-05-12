@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "jake-mcanelly",
+  "name": "jakemcanelly",
   "compatibility_date": "2026-05-12",
   "observability": {
     "enabled": true
